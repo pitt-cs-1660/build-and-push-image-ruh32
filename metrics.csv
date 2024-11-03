@@ -1,0 +1,13 @@
+TimeSeries ID,workload_identity_federation/count.iam.googleapis.com/WorkloadIdentityPoolProvider.ALIGN_RATE.REDUCE_SUM.metric.type="iam.googleapis.com/workload_identity_federation/count" resource.type="iam.googleapis.com/WorkloadIdentityPoolProvider" metric.label."result"="success".60s.pool_id:github-pool.project_id:cloudcomputing-440618
+pool_id,github-pool
+project_id,cloudcomputing-440618
+Sun Nov 03 2024 16:04:00 GMT-0500 (Eastern Standard Time),0.018889203708950707
+Sun Nov 03 2024 16:23:00 GMT-0500 (Eastern Standard Time),0.047777462957715955
+Sun Nov 03 2024 16:24:00 GMT-0500 (Eastern Standard Time),0.018889203708950707
+Sun Nov 03 2024 16:54:00 GMT-0500 (Eastern Standard Time),0.047777462957715955
+Sun Nov 03 2024 16:55:00 GMT-0500 (Eastern Standard Time),0.018889203708950707
+Sun Nov 03 2024 16:58:00 GMT-0500 (Eastern Standard Time),0.011944365739428994
+Sun Nov 03 2024 16:59:00 GMT-0500 (Eastern Standard Time),0.04055539814552464
+Sun Nov 03 2024 17:00:00 GMT-0500 (Eastern Standard Time),0.014166902781713035
+Sun Nov 03 2024 17:01:00 GMT-0500 (Eastern Standard Time),0.047777462957715955
+Sun Nov 03 2024 17:02:00 GMT-0500 (Eastern Standard Time),0.018889203708950707
