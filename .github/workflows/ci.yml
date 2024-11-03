@@ -38,7 +38,7 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: us-east4-docker.pkg.dev/cloudcomputing-440618/my-repo/node-demo:test
+          tags: us-east4-docker.pkg.dev/cloudcomputing-440618/docker-artifact-registry/node-demo:test
 
 # @note: you can use regular docker commands instead of the shared action
 #      - name: Build and Push Without Buildx
