@@ -38,7 +38,7 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: us-central1-docker.pkg.dev/cloudcomputing/docker-artifact-registry/node-demo:v1
+          tags: us-central1-docker.pkg.dev/cloudcomputing/artifact-registry/node-demo:v1
 
 #      - name: Build and Push Without Buildx
 #        run: |
