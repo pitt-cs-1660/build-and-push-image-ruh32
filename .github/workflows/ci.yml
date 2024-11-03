@@ -44,4 +44,4 @@ jobs:
 #        run: |
 #          docker build -t us-central1-docker.pkg.dev/cc-fall2024/dansc0de/node-demo:v1 .
 #          docker push us-central1-docker.pkg.dev/cc-fall2024/dansc0de/node-demo:v1
-#          --> us-central1.pkg.dev/cc-fall2024/dansc0de/node-demo:v1 <--
+#          --> us-central1.pkg.dev/cc-fall2024/dansc0de/node-demo:v1 <-- added the permissions
